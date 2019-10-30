@@ -1,2 +1,2 @@
-# hello-rwanda
+# hello-Rwanda
 another repository
